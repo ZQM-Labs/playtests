@@ -1,5 +1,15 @@
 # Playtests — ZQM Labs
 
+<!-- ZQM-START -->
+<p align="center">
+  <strong>ZQM Labs — Z's Quests & Mischief</strong><br>
+  <a href="https://zqmlabs.com">zqmlabs.com</a> •
+  <a href="https://github.com/ZQM-Labs">GitHub</a>
+</p>
+<!-- ZQM-END -->
+
+
+
 How **ZQM Labs — Z's Quests & Mischief** games get tested before they ship —
 and what we learned. *Games, gear & a little mischief.*
 
@@ -34,3 +44,15 @@ and send it to <zqmcomputing@gmail.com>. Anonymized excerpts may be published he
 [site]: https://github.com/ZQM-Labs/zqmlabs-site
 
 <https://zqmlabs.com> · *Play more. Plan less.*
+
+
+<!-- ZQM-FOOTER-START -->
+---
+
+<p align="center">
+  <em>Play more. Plan less.</em><br>
+  <a href="https://zqmlabs.com">zqmlabs.com</a> •
+  <a href="https://github.com/ZQM-Labs">ZQM Labs</a> •
+  <a href="https://github.com/ZQM-Computing">ZQM Computing</a>
+</p>
+<!-- ZQM-FOOTER-END -->
