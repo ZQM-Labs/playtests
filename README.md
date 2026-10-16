@@ -42,6 +42,7 @@ establish whether different communities can understand, access, adapt, and
 enjoy the experience safely.
 
 When possible, record:
+
 - **Context:** broad venue type and group format; do not include participant
   names or precise home locations.
 - **Access:** mobility, vision, hearing, reading, language, sensory, and
