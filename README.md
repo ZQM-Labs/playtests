@@ -1,3 +1,5 @@
+<!-- markdownlint-disable MD033 MD012 -->
+
 # Playtests — ZQM Labs
 
 <!-- ZQM-START -->
@@ -28,8 +30,43 @@ works on event night. We print the warts too.
 
 ## Contributing results
 
-Ran a ZQM kit? Copy [`results/_template.md`](results/_template.md), fill it in,
-and send it to <zqmcomputing@gmail.com>. Anonymized excerpts may be published here.
+Ran a ZQM kit? Copy [`results/_template.md`](results/_template.md), fill it
+in,
+and send it to <zqmcomputing@gmail.com>. Anonymized excerpts may be published
+here.
+
+## Test for communities, not just completion
+
+A successful run means more than finishing all stops. Playtests should help
+establish whether different communities can understand, access, adapt, and
+enjoy the experience safely.
+
+When possible, record:
+
+- **Context:** broad venue type and group format; do not include participant
+  names or precise home locations.
+- **Access:** mobility, vision, hearing, reading, language, sensory, and
+  non-GPS alternatives that were needed.
+- **Cultural fit:** confusing or inappropriate references, assumptions about
+  local customs, and content that needs adaptation.
+- **Reliability:** startup errors, missing art, offline behavior, saved
+  progress, sign-code flow, and device/browser differences.
+- **Community agency:** whether hosts could adapt the event and participants
+  felt included rather than treated as a generic audience.
+- **Evidence:** separate observed outcomes from guesses; include steps to
+  reproduce technical failures.
+
+### Contribution and privacy
+
+Use the existing result template and remove names, contact details, faces,
+exact home addresses, and other identifying details. Get explicit permission
+before submitting quotations or photos. Submit findings through the documented
+contact route or an issue in this repository. A report may be reviewed before
+publication; submitting it does not guarantee acceptance or publication.
+
+Do not claim a language, region, accessibility accommodation, or device
+configuration is supported based on a single successful run. Record the tested
+scope and limitations.
 
 ## More from ZQM Labs
 
