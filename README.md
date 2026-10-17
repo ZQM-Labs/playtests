@@ -105,3 +105,8 @@ Separate evidence into three categories:
 3. **Field-tested:** actual route, printed signs, GPS conditions, permissions, safe placement, and accessible alternatives.
 
 For each failure, include minimal reproduction steps, expected versus actual behavior, severity, and whether it blocks release. Keep participant identities, exact home locations, contact details, and unapproved photos out of reports. A successful test proves only the configuration and scope actually tested; it does not establish universal support.
+
+
+## Wisp's Lost Lanterns status decision
+
+Use this repository to establish release evidence, not to infer release status from a planned date, demo URL, passing CI, or a catalog label. Before describing Wisp's Lost Lanterns as field-approved, link the dated report(s) for the exact player and pack versions and confirm that route/QR/GPS behavior, offline recovery, content/language scope, venue permissions, safety, and accessible alternatives were actually tested. Checkout/payment/confirmation/fulfillment must have its own end-to-end evidence and is not covered by a playtest alone. Until the records are located and reviewed, release and field-readiness status remain **unverified**.
