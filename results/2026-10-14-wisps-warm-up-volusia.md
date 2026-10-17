@@ -47,6 +47,7 @@
 - [ ] Fail — rework and retest
 
 **Fixes required:**
+
 1. **Stop 4 puzzle difficulty:** Digit-sum is too hard for the 6–10 age band. Consider splitting into two difficulty tiers (e.g., "count the numbers" for younger kids vs. "add the digits" for older).
 2. **Stop 4 QR placement:** Sign was shaded by tree canopy. Raise to 5.5 ft or move 2 ft left for better sun exposure.
 3. **Stop 2 hint wording:** "Only count the seats looking at the oak" was ambiguous — one team counted all benches in the park. Reword to "Count only the benches that face the oak tree."
