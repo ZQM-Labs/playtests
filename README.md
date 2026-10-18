@@ -118,3 +118,15 @@ Use this repository to establish release evidence, not to infer release status f
 - [quest-authoring](https://github.com/ZQM-Labs/quest-authoring) — quest pack spec, validator, and generator
 - [quest-packs](https://github.com/ZQM-Labs/quest-packs) — ready-to-play quest packs
 - [zqmlabs-site](https://github.com/ZQM-Labs/zqmlabs-site) — the public website
+
+## Installation
+
+```bash
+pip install -e .
+```
+
+Requires Python 3.11+.
+
+## License
+
+MIT — see [LICENSE](LICENSE).
