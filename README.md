@@ -110,3 +110,11 @@ For each failure, include minimal reproduction steps, expected versus actual beh
 ## Wisp's Lost Lanterns status decision
 
 Use this repository to establish release evidence, not to infer release status from a planned date, demo URL, passing CI, or a catalog label. Before describing Wisp's Lost Lanterns as field-approved, link the dated report(s) for the exact player and pack versions and confirm that route/QR/GPS behavior, offline recovery, content/language scope, venue permissions, safety, and accessible alternatives were actually tested. Checkout/payment/confirmation/fulfillment must have its own end-to-end evidence and is not covered by a playtest alone. Until the records are located and reviewed, release and field-readiness status remain **unverified**.
+
+## Related repos
+
+- [lantern-player](https://github.com/ZQM-Labs/lantern-player) — the player PWA
+- [wisps-tracker](https://github.com/ZQM-Labs/wisps-tracker) — team tracking backend
+- [quest-authoring](https://github.com/ZQM-Labs/quest-authoring) — quest pack spec, validator, and generator
+- [quest-packs](https://github.com/ZQM-Labs/quest-packs) — ready-to-play quest packs
+- [zqmlabs-site](https://github.com/ZQM-Labs/zqmlabs-site) — the public website
