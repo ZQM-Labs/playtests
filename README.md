@@ -15,6 +15,14 @@
 How **ZQM Labs — Z's Quests & Mischief** games get tested before they ship —
 and what we learned. *Games, gear & a little mischief.*
 
+## Repository role and status
+
+**Status:** Active, public. Playtest protocol and results record for ZQM Labs games.
+
+**What this repository is:** The standard playtest protocol (`protocols/`) and the anonymized, per-session results reports (`results/`) for ZQM Labs kits.
+
+**What it contributes:** This is the estate's release-evidence record: the quest-player and quest-packs release contracts require dated playtest evidence for the exact versions under review, and those records live here. Organizer field failures from organizer-toolkit runs are also recorded here.
+
 ## Contents
 
 | Path | What it is |
@@ -113,7 +121,7 @@ Use this repository to establish release evidence, not to infer release status f
 
 ## Related repos
 
-- [lantern-player](https://github.com/ZQM-Labs/lantern-player) — the player PWA
+- [quest-player](https://github.com/ZQM-Labs/quest-player) — the player PWA
 - [quest-analytics](https://github.com/ZQM-Labs/quest-analytics) — team analytics + tracking backend
 - [quest-authoring](https://github.com/ZQM-Labs/quest-authoring) — quest pack spec, validator, and generator
 - [quest-packs](https://github.com/ZQM-Labs/quest-packs) — ready-to-play quest packs
