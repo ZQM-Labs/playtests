@@ -130,3 +130,10 @@ Requires Python 3.11+.
 ## License
 
 MIT — see [LICENSE](LICENSE).
+
+## Usage
+
+Pick a quest to test, run a session with real players following the
+protocol in this repo, and record what happened with the results
+template. What stumped people matters more than whether they finished —
+see [Test for communities, not just completion](#test-for-communities-not-just-completion).
