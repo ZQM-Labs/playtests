@@ -3,14 +3,14 @@
 # Playtests — ZQM Labs
 
 <!-- ZQM-START -->
+<!-- markdownlint-disable MD033 -->
 <p align="center">
   <strong>ZQM Labs — Z's Quests & Mischief</strong><br>
   <a href="https://zqmlabs.com">zqmlabs.com</a> •
   <a href="https://github.com/ZQM-Labs">GitHub</a>
 </p>
+<!-- markdownlint-enable MD033 -->
 <!-- ZQM-END -->
-
-
 
 How **ZQM Labs — Z's Quests & Mischief** games get tested before they ship —
 and what we learned. *Games, gear & a little mischief.*
@@ -82,8 +82,8 @@ scope and limitations.
 
 <https://zqmlabs.com> · *Play more. Plan less.*
 
-
 <!-- ZQM-FOOTER-START -->
+<!-- markdownlint-disable MD033 -->
 ---
 
 <p align="center">
@@ -92,6 +92,7 @@ scope and limitations.
   <a href="https://github.com/ZQM-Labs">ZQM Labs</a> •
   <a href="https://github.com/ZQM-Computing">ZQM Computing</a>
 </p>
+<!-- markdownlint-enable MD033 -->
 <!-- ZQM-FOOTER-END -->
 
 ## Versioned release evidence
@@ -105,7 +106,6 @@ Separate evidence into three categories:
 3. **Field-tested:** actual route, printed signs, GPS conditions, permissions, safe placement, and accessible alternatives.
 
 For each failure, include minimal reproduction steps, expected versus actual behavior, severity, and whether it blocks release. Keep participant identities, exact home locations, contact details, and unapproved photos out of reports. A successful test proves only the configuration and scope actually tested; it does not establish universal support.
-
 
 ## Wisp's Lost Lanterns status decision
 
