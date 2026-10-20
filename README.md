@@ -108,7 +108,7 @@ Use this repository to establish release evidence, not to infer release status f
 ## Related repos
 
 - [quest-player](https://github.com/ZQM-Labs/quest-player) — the player PWA
-- [quest-analytics](https://github.com/ZQM-Labs/quest-analytics) — team analytics + tracking backend
+- quest-analytics — team analytics + tracking backend (private repo)
 - [quest-authoring](https://github.com/ZQM-Labs/quest-authoring) — quest pack spec, validator, and generator
 - [quest-packs](https://github.com/ZQM-Labs/quest-packs) — ready-to-play quest packs
 - [organizer-toolkit](https://github.com/ZQM-Labs/organizer-toolkit) — setup checklists, print specs, FAQ
