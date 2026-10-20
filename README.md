@@ -68,20 +68,6 @@ Do not claim a language, region, accessibility accommodation, or device
 configuration is supported based on a single successful run. Record the tested
 scope and limitations.
 
-## More from ZQM Labs
-
-- [quest-packs][qp] — edition catalog + free sample quest
-- [organizer-toolkit][otk] — setup checklists, print specs, FAQ
-- [quest-authoring][qa] — quest-pack spec, guide, and validator
-- [zqmlabs-site][site] — the public website
-
-[qp]: https://github.com/ZQM-Labs/quest-packs
-[otk]: https://github.com/ZQM-Labs/organizer-toolkit
-[qa]: https://github.com/ZQM-Labs/quest-authoring
-[site]: https://github.com/ZQM-Labs/zqmlabs-site
-
-<https://zqmlabs.com> · *Play more. Plan less.*
-
 <!-- ZQM-FOOTER-START -->
 <!-- markdownlint-disable MD033 -->
 ---
@@ -117,15 +103,8 @@ Use this repository to establish release evidence, not to infer release status f
 - [wisps-tracker](https://github.com/ZQM-Labs/wisps-tracker) — team tracking backend
 - [quest-authoring](https://github.com/ZQM-Labs/quest-authoring) — quest pack spec, validator, and generator
 - [quest-packs](https://github.com/ZQM-Labs/quest-packs) — ready-to-play quest packs
+- [organizer-toolkit](https://github.com/ZQM-Labs/organizer-toolkit) — setup checklists, print specs, FAQ
 - [zqmlabs-site](https://github.com/ZQM-Labs/zqmlabs-site) — the public website
-
-## Installation
-
-```bash
-pip install -e .
-```
-
-Requires Python 3.11+.
 
 ## License
 
