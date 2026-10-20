@@ -114,7 +114,7 @@ Use this repository to establish release evidence, not to infer release status f
 ## Related repos
 
 - [lantern-player](https://github.com/ZQM-Labs/lantern-player) — the player PWA
-- [wisps-tracker](https://github.com/ZQM-Labs/wisps-tracker) — team tracking backend
+- [quest-analytics](https://github.com/ZQM-Labs/quest-analytics) — team analytics + tracking backend
 - [quest-authoring](https://github.com/ZQM-Labs/quest-authoring) — quest pack spec, validator, and generator
 - [quest-packs](https://github.com/ZQM-Labs/quest-packs) — ready-to-play quest packs
 - [zqmlabs-site](https://github.com/ZQM-Labs/zqmlabs-site) — the public website
