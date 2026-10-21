@@ -118,6 +118,17 @@ Use this repository to establish release evidence, not to infer release status f
 
 MIT — see [LICENSE](LICENSE).
 
+## Installation
+
+Clone the repository — there is no build step. The only dependencies
+are for building the documentation site:
+
+```bash
+git clone https://github.com/ZQM-Labs/playtests.git
+cd playtests
+pip install -r requirements.txt
+```
+
 ## Usage
 
 Pick a quest to test, run a session with real players following the
