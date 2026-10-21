@@ -1,0 +1,1 @@
+{"description":"Playtest protocols, templates, and results for ZQM Labs. package.json exists only so CI's node gate runs the content tests in tests/.","name":"playtests","private":true,"scripts":{"test":"node --test tests/test-protocol.cjs"},"version":"1.0.0"}

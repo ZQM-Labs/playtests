@@ -62,3 +62,26 @@
 ---
 
 *Playtest conducted per [playtest-protocol.md](../protocols/playtest-protocol.md). Report submitted by Game Master (anonymized).*
+
+## Follow-up — 2026-10-20
+
+Disposition of the three required fixes above, applied to the source artifacts:
+
+1. **Stop 4 puzzle difficulty — applied (adapted).** The two-tier split the
+   report suggested (a separate "count the numbers" puzzle for younger kids)
+   is not expressible in the v1 pack schema, which carries one `{q, a}` per
+   scare tier. The tiering was applied as scaffolding instead: the Stop 4
+   question and hint 2 in `quest-packs/sample-quest/wisp-sample.json` now
+   give younger hunters a count-the-digits-first on-ramp before the digit
+   sum. Answer unchanged.
+2. **Stop 4 QR placement — applied to guidance.** The placement lesson
+   (canopy shade slows scans; raise the sign to ~5.5 ft or shift it into
+   even light / better sun exposure) was added to the organizer toolkit's
+   print specs and setup checklist.
+3. **Stop 2 hint wording — applied.** `wisp-sample.json` now reads "Count
+   only the benches that face the oak tree." (this report's exact wording).
+
+**Retest status: NOT yet re-run.** No follow-up playtest session has been
+conducted since these fixes; the difficulty and QR-placement fixes are
+unverified in the field. This report's verdict ("Pass with fixes") is
+unchanged and is not a retest pass.
