@@ -12,8 +12,7 @@
 <!-- markdownlint-enable MD033 -->
 <!-- ZQM-END -->
 
-How **ZQM Labs — Z's Quests & Mischief** games get tested before they ship —
-and what we learned. *Games, gear & a little mischief.*
+The **ZQM Labs game playtesting protocol and results archive** documents how location-based scavenger hunts are evaluated before release. It provides repeatable test procedures and anonymized session reports covering play flow, puzzles, device behavior, event operations, and observed failures. Use the records as version-specific evidence, not as a guarantee that every venue, device, language, or future release has been tested.
 
 ## Repository role and status
 
