@@ -28,6 +28,8 @@ The **ZQM Labs game playtesting protocol and results archive** documents how loc
 |---|---|
 | [`protocols/playtest-protocol.md`](protocols/playtest-protocol.md) | The standard playtest: roles, run-of-show, timing sheet, what to observe. |
 | [`results/`](results/) | Anonymized playtest reports, one file per session. |
+| [`protocols/daily-geo-mystery.md`](protocols/daily-geo-mystery.md) | Separate acceptance protocol for the experimental single-clue browser game; not the Wisp route test. |
+| [`results/_daily-geo-mystery-template.md`](results/_daily-geo-mystery-template.md) | Blank test evidence form; **no executed session is implied**. |
 
 ## Why public
 
