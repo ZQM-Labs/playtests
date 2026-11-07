@@ -62,8 +62,9 @@ test("results template and filed reports keep the report structure", () => {
       `Template missing section: ${section}`
     );
   }
+  // Underscore-prefixed files are unexecuted report templates, not filed sessions.
   const reports = readdirSync(join(repoRoot, "results")).filter(
-    (f) => f.endsWith(".md") && f !== "_template.md"
+    (f) => f.endsWith(".md") && !f.startsWith("_")
   );
   assert.ok(reports.length > 0, "At least one filed report must exist");
   for (const name of reports) {
