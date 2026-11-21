@@ -36,6 +36,7 @@ jobs:
         with:
           path: site
   deploy:
+    timeout-minutes: 10
     if: ${{ github.event_name != 'pull_request' && github.ref == 'refs/heads/main' }}
     environment:
       name: github-pages
